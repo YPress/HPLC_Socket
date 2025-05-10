@@ -1,0 +1,22 @@
+{
+    "name": "ElectricRelay",
+    "version": "1.0.0",
+    "description": "继电器控制模块",
+    "keywords": [
+        "ElectricRelay",
+        "继电器"
+    ],
+    "authors": {
+        "name": "YPress_MYi",
+        "email": "ypress.myi@gmail.com",
+        "url": "https://www.ypress-myi.cn"
+    },
+    "license": "GPL-2.0-or-later",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif32"
+    ],
+    "headers": [
+        "ElectricRelay.h"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "TJC",
+    "version": "1.0.0",
+    "description": "淘晶驰串口屏",
+    "keywords": [
+        "TJC",
+        "串口屏",
+        "TJC4827X343_011C"
+    ],
+    "authors": {
+        "name": "YPress_MYi",
+        "email": "ypress.myi@gmail.com",
+        "url": "https://www.ypress-myi.cn"
+    },
+    "license": "GPL-2.0-or-later",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif32"
+    ],
+    "headers": [
+        "TJC.h"
+    ]
+}

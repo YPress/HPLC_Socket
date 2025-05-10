@@ -1,0 +1,23 @@
+{
+    "name": "BL",
+    "version": "1.0.0",
+    "description": "贝岭电能计量芯片",
+    "keywords": [
+        "BL",
+        "贝岭电能计量芯片",
+        "BL0906"
+    ],
+    "authors": {
+        "name": "YPress_MYi",
+        "email": "ypress.myi@gmail.com",
+        "url": "https://www.ypress-myi.cn"
+    },
+    "license": "GPL-2.0-or-later",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif32"
+    ],
+    "headers": [
+        "BL.h"
+    ]
+}

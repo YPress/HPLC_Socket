@@ -1,0 +1,21 @@
+{
+    "name": "Global",
+    "version": "1.0.0",
+    "description": "项目全局变量",
+    "keywords": [
+        "项目全局变量"
+    ],
+    "authors": {
+        "name": "YPress_MYi",
+        "email": "ypress.myi@gmail.com",
+        "url": "https://www.ypress-myi.cn"
+    },
+    "license": "GPL-2.0-or-later",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif32"
+    ],
+    "headers": [
+        "Global.h"
+    ]
+}

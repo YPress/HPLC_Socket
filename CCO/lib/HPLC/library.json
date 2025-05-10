@@ -1,0 +1,24 @@
+{
+    "name": "HPLC",
+    "version": "1.0.0",
+    "description": "电力线载波通信模块",
+    "keywords": [
+        "HPLC",
+        "电力线载波通信",
+        "ESDS67-61",
+        "ES1667"
+    ],
+    "authors": {
+        "name": "YPress_MYi",
+        "email": "ypress.myi@gmail.com",
+        "url": "https://www.ypress-myi.cn"
+    },
+    "license": "GPL-2.0-or-later",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif32"
+    ],
+    "headers": [
+        "HPLC.h"
+    ]
+}
